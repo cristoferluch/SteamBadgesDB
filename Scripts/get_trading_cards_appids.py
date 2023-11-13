@@ -14,8 +14,6 @@ logging.basicConfig(filename='app_log.txt', level=logging.INFO, format='%(asctim
 api_key = os.getenv('API_KEY')
 steam_id = os.getenv('STEAM_ID')
 
-
-
 # Fetch appids from the Steam APIds
 def fetch_steam_appids():
     data = []
@@ -126,8 +124,6 @@ def filter_appids_to_check(appid_list, trading_cards_appids):
     return appids_to_check
 
 def main():
-    print(api_key)
-    print(steam_id)
     print('Fetching steam appids...')
     appids_list = fetch_steam_appids()
     print('Total appids:', len(appids_list))
