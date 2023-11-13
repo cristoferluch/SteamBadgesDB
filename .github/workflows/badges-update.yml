@@ -1,0 +1,45 @@
+name: Steam Badges Update
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  schedule:
+    - cron: "0 */8 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
+      
+    - name: Set Environment Variables
+      run: |
+        echo "API_KEY=${{ secrets.API_KEY }}" >> $GITHUB_ENV
+        echo "STEAM_ID=${{ secrets.STEAM_ID }}" >> $GITHUB_ENV
+    
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    
+    - name: Install dependencies
+      run: |
+        pip3 install -r Scripts/requirements.txt
+        
+    - name: Run get_trading_cards_appids.py
+      run: |
+        python3 Scripts/get_trading_cards_appids.py
+        
+    - name: Push to main branch
+      uses: Automattic/action-commit-to-branch@master
+      with:
+        branch: 'main'
+        commit_message: 'Update Badges'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
