@@ -6283,3 +6283,484 @@
 2023-11-30 01:16:19,522 - Found trading cards for app_id 2714440: Game Name: Pillar of Community									 View details, Cards: None
 2023-11-30 01:16:20,505 - testing 2714770 status_code = 200
 2023-11-30 01:16:20,514 - Found trading cards for app_id 2714770: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:20:51,623 - testing 234670 status_code = 200
+2023-11-30 08:20:51,633 - Found trading cards for app_id 234670: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:20:52,652 - testing 272510 status_code = 200
+2023-11-30 08:20:52,663 - Found trading cards for app_id 272510: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:20:53,742 - testing 349040 status_code = 200
+2023-11-30 08:20:53,751 - Found trading cards for app_id 349040: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:20:54,733 - testing 543870 status_code = 200
+2023-11-30 08:20:54,743 - Found trading cards for app_id 543870: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:20:55,708 - testing 544750 status_code = 200
+2023-11-30 08:20:55,717 - Found trading cards for app_id 544750: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:20:56,694 - testing 571720 status_code = 200
+2023-11-30 08:20:56,704 - Found trading cards for app_id 571720: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:20:57,998 - testing 626690 status_code = 200
+2023-11-30 08:20:58,007 - Found trading cards for app_id 626690: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:20:59,074 - testing 638650 status_code = 200
+2023-11-30 08:20:59,083 - Found trading cards for app_id 638650: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:00,084 - testing 738540 status_code = 200
+2023-11-30 08:21:00,093 - Found trading cards for app_id 738540: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:01,042 - testing 740790 status_code = 200
+2023-11-30 08:21:01,051 - Found trading cards for app_id 740790: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:02,054 - testing 775500 status_code = 200
+2023-11-30 08:21:02,064 - Found trading cards for app_id 775500: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:03,069 - testing 915420 status_code = 200
+2023-11-30 08:21:03,078 - Found trading cards for app_id 915420: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:04,170 - testing 1007050 status_code = 200
+2023-11-30 08:21:04,180 - Found trading cards for app_id 1007050: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:05,143 - testing 1020550 status_code = 200
+2023-11-30 08:21:05,152 - Found trading cards for app_id 1020550: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:06,158 - testing 1046480 status_code = 200
+2023-11-30 08:21:06,169 - Found trading cards for app_id 1046480: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:07,122 - testing 1056050 status_code = 200
+2023-11-30 08:21:07,131 - Found trading cards for app_id 1056050: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:08,080 - testing 1089090 status_code = 200
+2023-11-30 08:21:08,089 - Found trading cards for app_id 1089090: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:09,050 - testing 1129830 status_code = 200
+2023-11-30 08:21:09,059 - Found trading cards for app_id 1129830: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:10,039 - testing 1300270 status_code = 200
+2023-11-30 08:21:10,048 - Found trading cards for app_id 1300270: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:11,005 - testing 1369480 status_code = 200
+2023-11-30 08:21:11,016 - Found trading cards for app_id 1369480: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:13,202 - testing 1403440 status_code = 200
+2023-11-30 08:21:13,211 - Found trading cards for app_id 1403440: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:14,160 - testing 1432410 status_code = 200
+2023-11-30 08:21:14,169 - Found trading cards for app_id 1432410: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:15,113 - testing 1447700 status_code = 200
+2023-11-30 08:21:15,122 - Found trading cards for app_id 1447700: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:16,082 - testing 1449330 status_code = 200
+2023-11-30 08:21:16,093 - Found trading cards for app_id 1449330: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:17,073 - testing 1460820 status_code = 200
+2023-11-30 08:21:17,091 - Found trading cards for app_id 1460820: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:18,402 - testing 1483370 status_code = 200
+2023-11-30 08:21:18,411 - Found trading cards for app_id 1483370: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:19,352 - testing 1500100 status_code = 200
+2023-11-30 08:21:19,361 - Found trading cards for app_id 1500100: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:20,290 - testing 1500110 status_code = 200
+2023-11-30 08:21:20,299 - Found trading cards for app_id 1500110: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:21,234 - testing 1500120 status_code = 200
+2023-11-30 08:21:21,244 - Found trading cards for app_id 1500120: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:22,200 - testing 1585910 status_code = 200
+2023-11-30 08:21:22,209 - Found trading cards for app_id 1585910: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:23,425 - testing 1601340 status_code = 200
+2023-11-30 08:21:23,434 - Found trading cards for app_id 1601340: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:24,380 - testing 1607170 status_code = 200
+2023-11-30 08:21:24,389 - Found trading cards for app_id 1607170: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:25,331 - testing 1608400 status_code = 200
+2023-11-30 08:21:25,341 - Found trading cards for app_id 1608400: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:26,321 - testing 1620420 status_code = 200
+2023-11-30 08:21:26,332 - Found trading cards for app_id 1620420: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:27,298 - testing 1646180 status_code = 200
+2023-11-30 08:21:27,308 - Found trading cards for app_id 1646180: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:28,250 - testing 1652220 status_code = 200
+2023-11-30 08:21:28,259 - Found trading cards for app_id 1652220: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:29,234 - testing 1653030 status_code = 200
+2023-11-30 08:21:29,243 - Found trading cards for app_id 1653030: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:30,244 - testing 1665250 status_code = 200
+2023-11-30 08:21:30,255 - Found trading cards for app_id 1665250: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:31,231 - testing 1667110 status_code = 200
+2023-11-30 08:21:31,240 - Found trading cards for app_id 1667110: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:32,233 - testing 1667720 status_code = 200
+2023-11-30 08:21:32,242 - Found trading cards for app_id 1667720: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:33,493 - testing 1669170 status_code = 200
+2023-11-30 08:21:33,502 - Found trading cards for app_id 1669170: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:34,446 - testing 1673320 status_code = 200
+2023-11-30 08:21:34,455 - Found trading cards for app_id 1673320: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:35,396 - testing 1678770 status_code = 200
+2023-11-30 08:21:35,407 - Found trading cards for app_id 1678770: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:36,366 - testing 1679590 status_code = 200
+2023-11-30 08:21:36,375 - Found trading cards for app_id 1679590: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:37,336 - testing 1684480 status_code = 200
+2023-11-30 08:21:37,345 - Found trading cards for app_id 1684480: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:38,358 - testing 1684780 status_code = 200
+2023-11-30 08:21:38,367 - Found trading cards for app_id 1684780: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:39,367 - testing 1694200 status_code = 200
+2023-11-30 08:21:39,378 - Found trading cards for app_id 1694200: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:40,338 - testing 1720040 status_code = 200
+2023-11-30 08:21:40,347 - Found trading cards for app_id 1720040: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:41,320 - testing 1724840 status_code = 200
+2023-11-30 08:21:41,329 - Found trading cards for app_id 1724840: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:42,591 - testing 1736550 status_code = 200
+2023-11-30 08:21:42,600 - Found trading cards for app_id 1736550: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:43,541 - testing 1743530 status_code = 200
+2023-11-30 08:21:43,551 - Found trading cards for app_id 1743530: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:44,508 - testing 1747300 status_code = 200
+2023-11-30 08:21:44,519 - Found trading cards for app_id 1747300: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:45,502 - testing 1751070 status_code = 200
+2023-11-30 08:21:45,512 - Found trading cards for app_id 1751070: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:46,469 - testing 1778820 status_code = 200
+2023-11-30 08:21:46,479 - Found trading cards for app_id 1778820: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:47,398 - testing 1784570 status_code = 200
+2023-11-30 08:21:47,407 - Found trading cards for app_id 1784570: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:48,370 - testing 1786750 status_code = 200
+2023-11-30 08:21:48,381 - Found trading cards for app_id 1786750: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:49,350 - testing 1789130 status_code = 200
+2023-11-30 08:21:49,359 - Found trading cards for app_id 1789130: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:50,309 - testing 1800230 status_code = 200
+2023-11-30 08:21:50,318 - Found trading cards for app_id 1800230: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:51,292 - testing 1809250 status_code = 200
+2023-11-30 08:21:51,301 - Found trading cards for app_id 1809250: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:52,272 - testing 1836520 status_code = 200
+2023-11-30 08:21:52,286 - Found trading cards for app_id 1836520: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:53,231 - testing 1839630 status_code = 200
+2023-11-30 08:21:53,243 - Found trading cards for app_id 1839630: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:54,184 - testing 1855580 status_code = 200
+2023-11-30 08:21:54,193 - Found trading cards for app_id 1855580: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:55,135 - testing 1855760 status_code = 200
+2023-11-30 08:21:55,144 - Found trading cards for app_id 1855760: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:56,129 - testing 1864530 status_code = 200
+2023-11-30 08:21:56,139 - Found trading cards for app_id 1864530: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:57,083 - testing 1864650 status_code = 200
+2023-11-30 08:21:57,094 - Found trading cards for app_id 1864650: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:58,271 - testing 1885520 status_code = 200
+2023-11-30 08:21:58,280 - Found trading cards for app_id 1885520: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:21:59,196 - testing 1886150 status_code = 200
+2023-11-30 08:21:59,205 - Found trading cards for app_id 1886150: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:00,150 - testing 1892700 status_code = 200
+2023-11-30 08:22:00,160 - Found trading cards for app_id 1892700: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:01,109 - testing 1893800 status_code = 200
+2023-11-30 08:22:01,118 - Found trading cards for app_id 1893800: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:02,119 - testing 1893960 status_code = 200
+2023-11-30 08:22:02,130 - Found trading cards for app_id 1893960: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:03,104 - testing 1894370 status_code = 200
+2023-11-30 08:22:03,114 - Found trading cards for app_id 1894370: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:04,089 - testing 1896090 status_code = 200
+2023-11-30 08:22:04,098 - Found trading cards for app_id 1896090: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:05,039 - testing 1896800 status_code = 200
+2023-11-30 08:22:05,048 - Found trading cards for app_id 1896800: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:06,007 - testing 1901450 status_code = 200
+2023-11-30 08:22:06,018 - Found trading cards for app_id 1901450: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:06,980 - testing 1918540 status_code = 200
+2023-11-30 08:22:07,003 - Found trading cards for app_id 1918540: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:08,034 - testing 1923670 status_code = 200
+2023-11-30 08:22:08,044 - Found trading cards for app_id 1923670: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:08,990 - testing 1931710 status_code = 200
+2023-11-30 08:22:08,999 - Found trading cards for app_id 1931710: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:09,978 - testing 1933970 status_code = 200
+2023-11-30 08:22:09,987 - Found trading cards for app_id 1933970: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:11,170 - testing 1933980 status_code = 200
+2023-11-30 08:22:11,180 - Found trading cards for app_id 1933980: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:12,118 - testing 1933990 status_code = 200
+2023-11-30 08:22:12,127 - Found trading cards for app_id 1933990: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:13,066 - testing 1934360 status_code = 200
+2023-11-30 08:22:13,076 - Found trading cards for app_id 1934360: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:14,051 - testing 1943360 status_code = 200
+2023-11-30 08:22:14,061 - Found trading cards for app_id 1943360: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:15,027 - testing 1945280 status_code = 200
+2023-11-30 08:22:15,036 - Found trading cards for app_id 1945280: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:16,014 - testing 1947950 status_code = 200
+2023-11-30 08:22:16,025 - Found trading cards for app_id 1947950: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:17,011 - testing 1952160 status_code = 200
+2023-11-30 08:22:17,020 - Found trading cards for app_id 1952160: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:17,962 - testing 1952170 status_code = 200
+2023-11-30 08:22:17,971 - Found trading cards for app_id 1952170: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:18,911 - testing 1963060 status_code = 200
+2023-11-30 08:22:18,920 - Found trading cards for app_id 1963060: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:19,885 - testing 1964670 status_code = 200
+2023-11-30 08:22:19,896 - Found trading cards for app_id 1964670: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:20,804 - testing 1965280 status_code = 200
+2023-11-30 08:22:20,971 - testing 1974220 status_code = 200
+2023-11-30 08:22:21,211 - testing 1978100 status_code = 200
+2023-11-30 08:22:21,586 - testing 1980270 status_code = 200
+2023-11-30 08:22:21,596 - Found trading cards for app_id 1980270: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:22,585 - testing 1989820 status_code = 200
+2023-11-30 08:22:22,596 - Found trading cards for app_id 1989820: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:23,544 - testing 1989840 status_code = 200
+2023-11-30 08:22:23,554 - Found trading cards for app_id 1989840: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:24,576 - testing 1994450 status_code = 200
+2023-11-30 08:22:24,586 - Found trading cards for app_id 1994450: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:25,566 - testing 1995280 status_code = 200
+2023-11-30 08:22:25,575 - Found trading cards for app_id 1995280: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:26,550 - testing 1997130 status_code = 200
+2023-11-30 08:22:26,559 - Found trading cards for app_id 1997130: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:27,502 - testing 2010710 status_code = 200
+2023-11-30 08:22:27,514 - Found trading cards for app_id 2010710: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:28,503 - testing 2015830 status_code = 200
+2023-11-30 08:22:28,513 - Found trading cards for app_id 2015830: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:29,436 - testing 2019360 status_code = 200
+2023-11-30 08:22:29,446 - Found trading cards for app_id 2019360: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:30,421 - testing 2019370 status_code = 200
+2023-11-30 08:22:30,431 - Found trading cards for app_id 2019370: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:31,394 - testing 2024890 status_code = 200
+2023-11-30 08:22:31,405 - Found trading cards for app_id 2024890: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:32,372 - testing 2052080 status_code = 200
+2023-11-30 08:22:32,382 - Found trading cards for app_id 2052080: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:33,331 - testing 2064190 status_code = 200
+2023-11-30 08:22:33,340 - Found trading cards for app_id 2064190: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:34,285 - testing 2077870 status_code = 200
+2023-11-30 08:22:34,295 - Found trading cards for app_id 2077870: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:35,263 - testing 2084880 status_code = 200
+2023-11-30 08:22:35,272 - Found trading cards for app_id 2084880: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:36,359 - testing 2088250 status_code = 200
+2023-11-30 08:22:36,370 - Found trading cards for app_id 2088250: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:37,328 - testing 2094090 status_code = 200
+2023-11-30 08:22:37,337 - Found trading cards for app_id 2094090: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:38,312 - testing 2098120 status_code = 200
+2023-11-30 08:22:38,322 - Found trading cards for app_id 2098120: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:39,275 - testing 2101280 status_code = 200
+2023-11-30 08:22:39,284 - Found trading cards for app_id 2101280: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:40,222 - testing 2107150 status_code = 200
+2023-11-30 08:22:40,233 - Found trading cards for app_id 2107150: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:41,338 - testing 2112920 status_code = 200
+2023-11-30 08:22:41,347 - Found trading cards for app_id 2112920: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:42,298 - testing 2115760 status_code = 200
+2023-11-30 08:22:42,308 - Found trading cards for app_id 2115760: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:43,570 - testing 2120870 status_code = 200
+2023-11-30 08:22:43,580 - Found trading cards for app_id 2120870: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:44,539 - testing 2121180 status_code = 200
+2023-11-30 08:22:44,549 - Found trading cards for app_id 2121180: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:45,479 - testing 2127130 status_code = 200
+2023-11-30 08:22:45,490 - Found trading cards for app_id 2127130: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:46,521 - testing 2127830 status_code = 200
+2023-11-30 08:22:46,531 - Found trading cards for app_id 2127830: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:47,460 - testing 2128160 status_code = 200
+2023-11-30 08:22:47,470 - Found trading cards for app_id 2128160: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:48,479 - testing 2131680 status_code = 200
+2023-11-30 08:22:48,488 - Found trading cards for app_id 2131680: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:49,461 - testing 2133070 status_code = 200
+2023-11-30 08:22:49,472 - Found trading cards for app_id 2133070: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:50,422 - testing 2140460 status_code = 200
+2023-11-30 08:22:50,431 - Found trading cards for app_id 2140460: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:51,190 - testing 2146720 status_code = 200
+2023-11-30 08:22:51,554 - testing 2148590 status_code = 200
+2023-11-30 08:22:51,563 - Found trading cards for app_id 2148590: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:52,560 - testing 2150840 status_code = 200
+2023-11-30 08:22:52,570 - Found trading cards for app_id 2150840: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:53,539 - testing 2151810 status_code = 200
+2023-11-30 08:22:53,563 - Found trading cards for app_id 2151810: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:54,553 - testing 2159260 status_code = 200
+2023-11-30 08:22:54,562 - Found trading cards for app_id 2159260: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:55,509 - testing 2168260 status_code = 200
+2023-11-30 08:22:55,518 - Found trading cards for app_id 2168260: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:56,459 - testing 2183860 status_code = 200
+2023-11-30 08:22:56,468 - Found trading cards for app_id 2183860: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:57,457 - testing 2185810 status_code = 200
+2023-11-30 08:22:57,467 - Found trading cards for app_id 2185810: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:58,426 - testing 2189750 status_code = 200
+2023-11-30 08:22:58,437 - Found trading cards for app_id 2189750: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:22:59,408 - testing 2195120 status_code = 200
+2023-11-30 08:22:59,418 - Found trading cards for app_id 2195120: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:00,430 - testing 2197000 status_code = 200
+2023-11-30 08:23:00,439 - Found trading cards for app_id 2197000: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:01,388 - testing 2201710 status_code = 200
+2023-11-30 08:23:01,397 - Found trading cards for app_id 2201710: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:02,375 - testing 2204940 status_code = 200
+2023-11-30 08:23:02,386 - Found trading cards for app_id 2204940: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:03,505 - testing 2205650 status_code = 200
+2023-11-30 08:23:03,514 - Found trading cards for app_id 2205650: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:04,925 - testing 2205660 status_code = 200
+2023-11-30 08:23:04,935 - Found trading cards for app_id 2205660: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:05,876 - testing 2205860 status_code = 200
+2023-11-30 08:23:05,886 - Found trading cards for app_id 2205860: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:06,859 - testing 2213910 status_code = 200
+2023-11-30 08:23:06,869 - Found trading cards for app_id 2213910: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:07,838 - testing 2219270 status_code = 200
+2023-11-30 08:23:07,849 - Found trading cards for app_id 2219270: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:08,807 - testing 2220330 status_code = 200
+2023-11-30 08:23:08,817 - Found trading cards for app_id 2220330: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:09,810 - testing 2222550 status_code = 200
+2023-11-30 08:23:09,819 - Found trading cards for app_id 2222550: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:10,763 - testing 2232650 status_code = 200
+2023-11-30 08:23:10,773 - Found trading cards for app_id 2232650: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:12,016 - testing 2240780 status_code = 200
+2023-11-30 08:23:12,027 - Found trading cards for app_id 2240780: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:13,016 - testing 2243550 status_code = 200
+2023-11-30 08:23:13,026 - Found trading cards for app_id 2243550: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:13,993 - testing 2249320 status_code = 200
+2023-11-30 08:23:14,002 - Found trading cards for app_id 2249320: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:14,945 - testing 2280460 status_code = 200
+2023-11-30 08:23:14,954 - Found trading cards for app_id 2280460: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:16,293 - testing 2282540 status_code = 200
+2023-11-30 08:23:16,303 - Found trading cards for app_id 2282540: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:17,252 - testing 2286200 status_code = 200
+2023-11-30 08:23:17,263 - Found trading cards for app_id 2286200: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:18,469 - testing 2306740 status_code = 200
+2023-11-30 08:23:18,478 - Found trading cards for app_id 2306740: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:19,426 - testing 2309460 status_code = 200
+2023-11-30 08:23:19,435 - Found trading cards for app_id 2309460: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:20,371 - testing 2310160 status_code = 200
+2023-11-30 08:23:20,380 - Found trading cards for app_id 2310160: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:21,331 - testing 2320620 status_code = 200
+2023-11-30 08:23:21,342 - Found trading cards for app_id 2320620: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:22,303 - testing 2331340 status_code = 200
+2023-11-30 08:23:22,312 - Found trading cards for app_id 2331340: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:23,254 - testing 2332660 status_code = 200
+2023-11-30 08:23:23,263 - Found trading cards for app_id 2332660: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:24,207 - testing 2342880 status_code = 200
+2023-11-30 08:23:24,216 - Found trading cards for app_id 2342880: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:25,167 - testing 2343720 status_code = 200
+2023-11-30 08:23:25,176 - Found trading cards for app_id 2343720: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:26,110 - testing 2364370 status_code = 200
+2023-11-30 08:23:26,122 - Found trading cards for app_id 2364370: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:27,105 - testing 2367690 status_code = 200
+2023-11-30 08:23:27,115 - Found trading cards for app_id 2367690: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:28,086 - testing 2371630 status_code = 200
+2023-11-30 08:23:28,096 - Found trading cards for app_id 2371630: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:29,067 - testing 2377490 status_code = 200
+2023-11-30 08:23:29,076 - Found trading cards for app_id 2377490: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:30,050 - testing 2379530 status_code = 200
+2023-11-30 08:23:30,061 - Found trading cards for app_id 2379530: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:31,157 - testing 2382580 status_code = 200
+2023-11-30 08:23:31,167 - Found trading cards for app_id 2382580: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:32,152 - testing 2397630 status_code = 200
+2023-11-30 08:23:32,162 - Found trading cards for app_id 2397630: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:33,170 - testing 2399770 status_code = 200
+2023-11-30 08:23:33,180 - Found trading cards for app_id 2399770: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:34,343 - testing 2408180 status_code = 200
+2023-11-30 08:23:34,352 - Found trading cards for app_id 2408180: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:35,318 - testing 2415180 status_code = 200
+2023-11-30 08:23:35,329 - Found trading cards for app_id 2415180: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:36,530 - testing 2418820 status_code = 200
+2023-11-30 08:23:36,539 - Found trading cards for app_id 2418820: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:37,549 - testing 2438020 status_code = 200
+2023-11-30 08:23:37,558 - Found trading cards for app_id 2438020: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:38,579 - testing 2441670 status_code = 200
+2023-11-30 08:23:38,588 - Found trading cards for app_id 2441670: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:39,632 - testing 2455080 status_code = 200
+2023-11-30 08:23:39,643 - Found trading cards for app_id 2455080: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:40,583 - testing 2459250 status_code = 200
+2023-11-30 08:23:40,592 - Found trading cards for app_id 2459250: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:41,551 - testing 2460050 status_code = 200
+2023-11-30 08:23:41,560 - Found trading cards for app_id 2460050: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:42,514 - testing 2463800 status_code = 200
+2023-11-30 08:23:42,523 - Found trading cards for app_id 2463800: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:43,455 - testing 2474690 status_code = 200
+2023-11-30 08:23:43,465 - Found trading cards for app_id 2474690: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:44,425 - testing 2482970 status_code = 200
+2023-11-30 08:23:44,449 - Found trading cards for app_id 2482970: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:45,391 - testing 2492270 status_code = 200
+2023-11-30 08:23:45,400 - Found trading cards for app_id 2492270: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:46,371 - testing 2495040 status_code = 200
+2023-11-30 08:23:46,380 - Found trading cards for app_id 2495040: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:47,309 - testing 2504740 status_code = 200
+2023-11-30 08:23:47,319 - Found trading cards for app_id 2504740: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:48,259 - testing 2516870 status_code = 200
+2023-11-30 08:23:48,268 - Found trading cards for app_id 2516870: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:49,226 - testing 2538250 status_code = 200
+2023-11-30 08:23:49,237 - Found trading cards for app_id 2538250: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:50,206 - testing 2539880 status_code = 200
+2023-11-30 08:23:50,215 - Found trading cards for app_id 2539880: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:51,160 - testing 2544720 status_code = 200
+2023-11-30 08:23:51,817 - testing 2546340 status_code = 200
+2023-11-30 08:23:51,826 - Found trading cards for app_id 2546340: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:52,801 - testing 2577850 status_code = 200
+2023-11-30 08:23:52,811 - Found trading cards for app_id 2577850: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:53,765 - testing 2578830 status_code = 200
+2023-11-30 08:23:53,774 - Found trading cards for app_id 2578830: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:54,772 - testing 2581210 status_code = 200
+2023-11-30 08:23:54,781 - Found trading cards for app_id 2581210: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:55,743 - testing 2586040 status_code = 200
+2023-11-30 08:23:55,752 - Found trading cards for app_id 2586040: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:56,730 - testing 2586650 status_code = 200
+2023-11-30 08:23:56,739 - Found trading cards for app_id 2586650: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:57,921 - testing 2587900 status_code = 200
+2023-11-30 08:23:57,932 - Found trading cards for app_id 2587900: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:58,903 - testing 2589290 status_code = 200
+2023-11-30 08:23:58,913 - Found trading cards for app_id 2589290: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:23:59,921 - testing 2593080 status_code = 200
+2023-11-30 08:23:59,930 - Found trading cards for app_id 2593080: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:01,221 - testing 2593580 status_code = 200
+2023-11-30 08:24:01,230 - Found trading cards for app_id 2593580: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:02,160 - testing 2600600 status_code = 200
+2023-11-30 08:24:02,170 - Found trading cards for app_id 2600600: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:03,129 - testing 2608050 status_code = 200
+2023-11-30 08:24:03,138 - Found trading cards for app_id 2608050: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:04,135 - testing 2610720 status_code = 200
+2023-11-30 08:24:04,144 - Found trading cards for app_id 2610720: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:05,078 - testing 2613070 status_code = 200
+2023-11-30 08:24:05,087 - Found trading cards for app_id 2613070: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:06,435 - testing 2615130 status_code = 200
+2023-11-30 08:24:06,444 - Found trading cards for app_id 2615130: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:07,442 - testing 2616490 status_code = 200
+2023-11-30 08:24:07,454 - Found trading cards for app_id 2616490: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:08,386 - testing 2619250 status_code = 200
+2023-11-30 08:24:08,395 - Found trading cards for app_id 2619250: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:09,350 - testing 2629050 status_code = 200
+2023-11-30 08:24:09,359 - Found trading cards for app_id 2629050: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:10,323 - testing 2629630 status_code = 200
+2023-11-30 08:24:10,332 - Found trading cards for app_id 2629630: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:11,384 - testing 2630770 status_code = 200
+2023-11-30 08:24:11,395 - Found trading cards for app_id 2630770: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:12,368 - testing 2646440 status_code = 200
+2023-11-30 08:24:12,377 - Found trading cards for app_id 2646440: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:13,373 - testing 2648890 status_code = 200
+2023-11-30 08:24:13,382 - Found trading cards for app_id 2648890: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:14,321 - testing 2650620 status_code = 200
+2023-11-30 08:24:14,331 - Found trading cards for app_id 2650620: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:15,339 - testing 2652820 status_code = 200
+2023-11-30 08:24:15,348 - Found trading cards for app_id 2652820: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:16,357 - testing 2661890 status_code = 200
+2023-11-30 08:24:16,369 - Found trading cards for app_id 2661890: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:17,345 - testing 2665590 status_code = 200
+2023-11-30 08:24:17,354 - Found trading cards for app_id 2665590: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:18,303 - testing 2667410 status_code = 200
+2023-11-30 08:24:18,312 - Found trading cards for app_id 2667410: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:19,286 - testing 2669960 status_code = 200
+2023-11-30 08:24:19,295 - Found trading cards for app_id 2669960: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:20,265 - testing 2676950 status_code = 200
+2023-11-30 08:24:20,276 - Found trading cards for app_id 2676950: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:21,506 - testing 2678830 status_code = 200
+2023-11-30 08:24:21,515 - Found trading cards for app_id 2678830: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:22,510 - testing 2680830 status_code = 200
+2023-11-30 08:24:22,519 - Found trading cards for app_id 2680830: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:23,614 - testing 2681770 status_code = 200
+2023-11-30 08:24:23,624 - Found trading cards for app_id 2681770: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:24,572 - testing 2683030 status_code = 200
+2023-11-30 08:24:24,582 - Found trading cards for app_id 2683030: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:25,582 - testing 2684280 status_code = 200
+2023-11-30 08:24:25,593 - Found trading cards for app_id 2684280: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:26,660 - testing 2685610 status_code = 200
+2023-11-30 08:24:26,669 - Found trading cards for app_id 2685610: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:27,602 - testing 2686520 status_code = 200
+2023-11-30 08:24:27,612 - Found trading cards for app_id 2686520: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:28,628 - testing 2686910 status_code = 200
+2023-11-30 08:24:28,637 - Found trading cards for app_id 2686910: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:33,607 - testing 2690190 status_code = 200
+2023-11-30 08:24:33,618 - Found trading cards for app_id 2690190: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:34,688 - testing 2690250 status_code = 200
+2023-11-30 08:24:34,697 - Found trading cards for app_id 2690250: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:35,640 - testing 2692580 status_code = 200
+2023-11-30 08:24:35,650 - Found trading cards for app_id 2692580: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:36,607 - testing 2693650 status_code = 200
+2023-11-30 08:24:36,617 - Found trading cards for app_id 2693650: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:37,568 - testing 2693820 status_code = 200
+2023-11-30 08:24:37,577 - Found trading cards for app_id 2693820: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:38,510 - testing 2694490 status_code = 200
+2023-11-30 08:24:38,536 - Found trading cards for app_id 2694490: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:39,468 - testing 2695970 status_code = 200
+2023-11-30 08:24:39,478 - Found trading cards for app_id 2695970: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:40,429 - testing 2698560 status_code = 200
+2023-11-30 08:24:40,438 - Found trading cards for app_id 2698560: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:41,498 - testing 2698670 status_code = 200
+2023-11-30 08:24:41,507 - Found trading cards for app_id 2698670: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:42,486 - testing 2699670 status_code = 200
+2023-11-30 08:24:42,495 - Found trading cards for app_id 2699670: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:43,476 - testing 2700120 status_code = 200
+2023-11-30 08:24:43,487 - Found trading cards for app_id 2700120: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:44,475 - testing 2703000 status_code = 200
+2023-11-30 08:24:44,484 - Found trading cards for app_id 2703000: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:45,451 - testing 2706140 status_code = 200
+2023-11-30 08:24:45,460 - Found trading cards for app_id 2706140: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:46,421 - testing 2708710 status_code = 200
+2023-11-30 08:24:46,431 - Found trading cards for app_id 2708710: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:47,375 - testing 2710060 status_code = 200
+2023-11-30 08:24:47,386 - Found trading cards for app_id 2710060: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:48,324 - testing 2710290 status_code = 200
+2023-11-30 08:24:48,334 - Found trading cards for app_id 2710290: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:49,255 - testing 2711070 status_code = 200
+2023-11-30 08:24:49,264 - Found trading cards for app_id 2711070: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:50,223 - testing 2715180 status_code = 200
+2023-11-30 08:24:50,232 - Found trading cards for app_id 2715180: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:51,172 - testing 2715630 status_code = 200
+2023-11-30 08:24:51,182 - Found trading cards for app_id 2715630: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:52,121 - testing 2715660 status_code = 200
+2023-11-30 08:24:52,133 - Found trading cards for app_id 2715660: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:53,070 - testing 2715670 status_code = 200
+2023-11-30 08:24:53,079 - Found trading cards for app_id 2715670: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:54,023 - testing 2715680 status_code = 200
+2023-11-30 08:24:54,032 - Found trading cards for app_id 2715680: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:54,999 - testing 2716200 status_code = 200
+2023-11-30 08:24:55,008 - Found trading cards for app_id 2716200: Game Name: Pillar of Community									 View details, Cards: None
+2023-11-30 08:24:56,184 - testing 2716720 status_code = 200
+2023-11-30 08:24:56,195 - Found trading cards for app_id 2716720: Game Name: Pillar of Community									 View details, Cards: None
