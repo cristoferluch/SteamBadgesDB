@@ -9,7 +9,8 @@ import logging
 import time
 
 logging.getLogger('httpx').setLevel(logging.ERROR)
-logging.basicConfig(filename='app_log.txt', level=logging.INFO, format='%(asctime)s - %(message)s')
+log_file_path = os.path.join(os.getcwd(), 'app_log.txt')
+logging.basicConfig(filename=log_file_path, level=logging.INFO, format='%(asctime)s - %(message)s')
 
 api_key = os.getenv('API_KEY')
 steam_id = os.getenv('STEAM_ID')
