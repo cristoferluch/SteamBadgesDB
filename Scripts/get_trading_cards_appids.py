@@ -18,7 +18,7 @@ steam_id = os.getenv('STEAM_ID')
 # Fetch appids from the Steam APIds
 def fetch_steam_appids():
     data = []
-    url = f'https://api.steampowered.com/IStoreService/GetAppList/v1/?key={api_key}&max_results=200'
+    url = f'https://api.steampowered.com/IStoreService/GetAppList/v1/?key={api_key}&max_results=50000'
     try:
         response = requests.get(url, timeout=60.0)
         response_json = response.json()
