@@ -143,7 +143,7 @@ def main():
         if result is not None:
             appid, name, cards = result
             trading_cards.append({'appid': appid, 'name': name, 'cards': cards})
-            time.sleep(0.6)
+            time.sleep(1)
         pbar.update(1)
     pbar.close()
 
