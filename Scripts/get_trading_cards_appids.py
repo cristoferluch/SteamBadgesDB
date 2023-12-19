@@ -108,15 +108,15 @@ def format_timestamp(timestamp):
 
 # Filter appids to be checked
 def filter_appids_to_check(appid_list, trading_cards_appids):
-    yesterday = datetime.datetime.now() - datetime.timedelta(days=1)
-    yesterday_date = yesterday.strftime('%Y-%m-%d')
+    # yesterday = datetime.datetime.now() - datetime.timedelta(days=1)
+    # yesterday_date = yesterday.strftime('%Y-%m-%d')
     current_date = datetime.datetime.now().strftime('%Y-%m-%d')
 
     appids_to_check = []
     for item in appid_list:
 
         date = format_timestamp(item['last_modified'])
-        if date == current_date or date == yesterday_date:  
+        if date == current_date:  
             app_id = item['appid']
             if int(app_id) in [item['appid'] for item in trading_cards_appids]:
                 continue
@@ -143,7 +143,7 @@ def main():
         if result is not None:
             appid, name, cards = result
             trading_cards.append({'appid': appid, 'name': name, 'cards': cards})
-            time.sleep(1)
+            time.sleep(0.7)
         pbar.update(1)
     pbar.close()
 
