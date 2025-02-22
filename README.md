@@ -1,7 +1,7 @@
 [![Made with GH Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?logo=github-actions&logoColor=white)](https://github.com/features/actions "Go to GitHub Actions homepage")
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 [![Steam](https://img.shields.io/badge/Steam-profile-blue.svg?logo=steam)](https://steamcommunity.com/id/cristoferluch/)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcristoferluch%2FSteamBadgesDB%2Fmain%2Ftrading_cards_appids.json&query=%24.size&label=Badges&logo=steam)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcristoferluch%2FSteamBadgesDB%2Fmain%2Fsrc%2Fbadge_count.json&query=%24.count&label=Badges&logo=steam)
 
 <br><br>
 <p align="center">
@@ -17,6 +17,7 @@ The [badges.json](https://raw.githubusercontent.com/cristoferluch/SteamBadgesDB/
 - type 2: Special Badges
 - type 3: Seasonal Badges
 
+Badges are updated daily through GitHub Actions.
 
 ````shel
 
@@ -82,9 +83,6 @@ axios.get('https://raw.githubusercontent.com/cristoferluch/SteamBadgesDB/main/ba
   });
 ````
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+API provided by [GermanDarknes](https://github.com/GermanDarknes).
 
 #### Made by [cristoferluch](https://steamcommunity.com/id/cristoferluch/)
