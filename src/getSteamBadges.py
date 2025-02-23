@@ -1,5 +1,6 @@
 import requests
 import json
+import html
 
 def get_appid_list():
     url = "https://www.steamcardexchange.net/api/request.php?GetInventory"
@@ -14,9 +15,10 @@ def load_badges(filename="src/special_badges.json"):
         return []
 
 def save_badges(badges, filename="badges.json"):
+    decoded_badges = json.loads(json.dumps(badges), object_hook=lambda d: {k: html.unescape(v) if isinstance(v, str) else v for k, v in d.items()})
 
     with open(filename, 'w', encoding='utf-8') as output_file:
-        json.dump(badges, output_file, ensure_ascii=False)
+        json.dump(decoded_badges, output_file, ensure_ascii=False)
 
 def save_badge_count(badges, filename="src/badge_count.json"):
     badge_count = {"count": len(badges)}
