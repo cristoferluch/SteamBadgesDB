@@ -12,7 +12,7 @@
 # Steam Badge DB
 
 The [badges.json](https://raw.githubusercontent.com/cristoferluch/SteamBadgesDB/main/badges.json) file contains an up-to-date list of all Steam badges.
-- type 0: Games
+- type 0: Games Badges
 - type 1: Event Badges
 - type 2: Special Badges
 - type 3: Seasonal Badges
