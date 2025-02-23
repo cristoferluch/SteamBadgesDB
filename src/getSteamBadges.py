@@ -15,10 +15,12 @@ def load_badges(filename="src/special_badges.json"):
         return []
 
 def save_badges(badges, filename="badges.json"):
+    # Decodifica as entidades HTML no dicionário
     decoded_badges = json.loads(json.dumps(badges), object_hook=lambda d: {k: html.unescape(v) if isinstance(v, str) else v for k, v in d.items()})
 
     with open(filename, 'w', encoding='utf-8') as output_file:
         json.dump(decoded_badges, output_file, ensure_ascii=False)
+
 
 def save_badge_count(badges, filename="src/badge_count.json"):
     badge_count = {"count": len(badges)}
@@ -30,13 +32,14 @@ def main():
     data = get_appid_list()
     
     for game in data:
-        badges.append({
-            'id': 1,
-            'appid': game[0][0],
-            'name': game[0][1],
-            'cards': game[3][0],
-            'type': 0
-        })
+        if game[3][0] > 0:
+            badges.append({
+                'id': 1,
+                'appid': game[0][0],
+                'name': game[0][1],
+                'cards': game[3][0],
+                'type': 0
+            })
 
     existing_badges = load_badges()
 
