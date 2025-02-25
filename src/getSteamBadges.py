@@ -15,7 +15,7 @@ def load_badges(filename="src/special_badges.json"):
         return []
 
 def save_badges(badges, filename="badges.json"):
-    # Decodifica as entidades HTML no dicionário
+    #Decode HTML entities in the dictionary.
     decoded_badges = json.loads(json.dumps(badges), object_hook=lambda d: {k: html.unescape(v) if isinstance(v, str) else v for k, v in d.items()})
 
     with open(filename, 'w', encoding='utf-8') as output_file:
